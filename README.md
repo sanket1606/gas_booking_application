@@ -2,8 +2,8 @@
 
 Group A
 
-Atul Raj
-Aditya Choube
-M Spoorthi
-Keerthan r Verma
-Sanket Potdar
+1)Atul Raj
+2)Aditya Choube
+3)M Spoorthi
+4)Keerthan r Verma
+5)Sanket Potdar
